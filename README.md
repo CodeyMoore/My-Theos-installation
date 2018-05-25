@@ -63,11 +63,12 @@ Thats it! all done. Now you can start making Cydia Tweaks and etc.
 
 &nbsp;
 
-**iOS installation:**
-
 &nbsp;
 
-**iOS installation thanks to Jake James go follow him on Twitter - https://twitter.com/Jakeashacks**
+**iOS installation:**
+
+
+**iOS installation thanks to Jake James, go follow him on Twitter - https://twitter.com/Jakeashacks**
 
 &nbsp;
 
@@ -93,6 +94,9 @@ Thats it! all done. Now you can start making Cydia Tweaks and etc.
 	   and paste the following command - theosinstaller sdk-version - replace sdk-version with the sdk version you want to            use (E.g. theosinstaller 9.3)
 	
 	5. This part might take a bit, once its done you can use the Theos commands below
+
+
+&nbsp;
 
 &nbsp;
 

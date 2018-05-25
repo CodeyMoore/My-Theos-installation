@@ -26,7 +26,7 @@
 
 &nbsp;
 
-**Part 3 - Time to install Theos. (Choose a location for Theos, the default location is used below)**
+**Part 3 - Time to install Theos. (Choose a location for Theos, the default location is used below)/the final steps**
 
 	1. Copy and paste the following commands into Terminal and press Enter 
 		- export THEOS=~/theos
@@ -77,7 +77,7 @@ Thats it! all done. Now you can start making Cydia Tweaks and etc.
 
 	Ill let you do that - www.reddit.com/r/Jailbreak/ - would be a good place to start
 
-
+&nbsp;
 
 **Part 2 - Adding a repo to Cydia**
 
@@ -87,13 +87,18 @@ Thats it! all done. Now you can start making Cydia Tweaks and etc.
 	2. Go to the Sources tab and in the top right corner click the "Edit" button a pop up will appear copy and paste this 	         repo into that pop up
 	- http://jakeashacks.com/cydia/ - then let Cydia do its thing
 	
-	3. Once Cydia has done its thing go to the "Search" tab and search for "Theos Installer" and then que that for                    install, then search for "MTerminal"
+	
+&nbsp;
+
+**Part 3 - Installing everything/the final steps**	
+	
+	1. Once Cydia has done its thing go to the "Search" tab and search for "Theos Installer" and then que that for                    install, then search for "MTerminal"
 	   and install both "Theos Installer" and "MTerminal"
 	
-	4. Now open MTerminal type - su - MTerminal will prompt you to type your root password (default password is - alpine -            unless you've changed it) then copy 
+	2. Now open MTerminal type - su - MTerminal will prompt you to type your root password (default password is - alpine -            unless you've changed it) then copy 
 	   and paste the following command - theosinstaller sdk-version - replace sdk-version with the sdk version you want to            use (E.g. theosinstaller 9.3)
 	
-	5. This part might take a bit, once its done you can use the Theos commands below
+	3. This part might take a bit, once its done you can use the Theos commands below
 
 
 &nbsp;

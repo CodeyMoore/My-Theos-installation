@@ -63,23 +63,48 @@ Thats it! all done. Now you can start making Cydia Tweaks and etc.
 
 &nbsp;
 
+**iOS installation:**
+
+&nbsp;
+
+**iOS installation thanks to Jake James go follow him on Twitter - https://twitter.com/Jakeashacks**
+
+&nbsp;
+
+**Part 1 - Jailbreak your iDevice**
+
+
+	Ill let you do that - www.reddit.com/r/Jailbreak/ - would be a good place to start
+
+
+
+**Part 2 - Adding a repo to Cydia**
+
+	1. Open Cydia and let it refresh (if it has to)
+	
+	
+	2. Go to the Sources tab and in the top right corner click the "Edit" button a pop up will appear copy and paste this 	         repo into that pop up
+	- http://jakeashacks.com/cydia/ - then let Cydia do its thing
+	
+	3. Once Cydia has done its thing go to the "Search" tab and search for "Theos Installer" and then que that for                    install, then search for "MTerminal"
+	   and install both "Theos Installer" and "MTerminal"
+	
+	4. Now open MTerminal type - su - MTerminal will prompt you to type your root password (default password is - alpine -            unless you've changed it) then copy 
+	   and paste the following command - theosinstaller sdk-version - replace sdk-version with the sdk version you want to            use (E.g. theosinstaller 9.3)
+	
+	5. This part might take a bit, once its done you can use the Theos commands below
+
+&nbsp;
+
 $THEOS/bin/nic.pl - Command for NIC (New Instance Creator) 
 
 &nbsp;
 
-Command for compiling your project, make sure you change your directory (the folder your in) in Terminal use this command to change directory - cd CHANGE/TO/THE/FOLDER/DIRECTORY -.
+Command for compiling your project, make sure you change your directory (the folder your in) in Terminal.
+Use this command to change directory - cd CHANGE/TO/THE/FOLDER/DIRECTORY -)
 
 &nbsp;
 
 make package - Just makes the .deb
 
-&nbsp;
-
 make package install - Makes the deb and installs it on your iDevice
-
-&nbsp;
-
-**iOS installation:**
-
-
-**COMING SOON**

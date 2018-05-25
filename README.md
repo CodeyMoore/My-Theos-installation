@@ -84,19 +84,16 @@ Thats it! all done. Now you can start making Cydia Tweaks and etc.
 	1. Open Cydia and let it refresh (if it has to)
 	
 	
-	2. Go to the Sources tab and in the top right corner click the "Edit" button a pop up will appear copy and paste this 	         repo into that pop up
-	- http://jakeashacks.com/cydia/ - then let Cydia do its thing
+	2. Go to the Sources tab and in the top right corner click the "Edit" button a pop up will appear copy and paste this repo into that pop up - http://jakeashacks.com/cydia/ - then let Cydia do its thing
 	
 	
 &nbsp;
 
 **Part 3 - Installing everything/the final steps**	
 	
-	1. Once Cydia has done its thing go to the "Search" tab and search for "Theos Installer" and then que that for                    install, then search for "MTerminal"
-	   and install both "Theos Installer" and "MTerminal"
+	1. Once Cydia has done its thing go to the "Search" tab and search for "Theos Installer" and then que that for install, then search for "MTerminal" and install both "Theos Installer" and "MTerminal"
 	
-	2. Now open MTerminal type - su - MTerminal will prompt you to type your root password (default password is - alpine -            unless you've changed it) then copy 
-	   and paste the following command - theosinstaller sdk-version - replace sdk-version with the sdk version you want to            use (E.g. theosinstaller 9.3)
+	2. Now open MTerminal type - su - MTerminal will prompt you to type your root password (default password is - alpine - unless you've changed it) then copy and paste the following command - theosinstaller sdk-version - replace sdk-version with the sdk version you want to use (E.g. theosinstaller 9.3)
 	
 	3. This part might take a bit, once its done you can use the Theos commands below
 

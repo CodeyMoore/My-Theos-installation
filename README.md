@@ -59,8 +59,8 @@ if you dont see your pasword on the screen thats just how it is, for whatever re
 
 &nbsp;
 
-Thats it! all done. Now you can start making Cydia Tweaks and etc. the iOS Theos commands are the same across all systems.
-
+Thats it! all done. Now you can start making Cydia Tweaks and etc. 
+The iOS Theos commands are the same across all systems.
 &nbsp;
 
 &nbsp;

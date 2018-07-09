@@ -2,6 +2,10 @@
 
 &nbsp;
 
+**PLEASE NOTE:** Installing Theos via Jack's *theosinstaller* requires su but Thoes itself **DOES NOT** need to run in su, it *can* be ran in su but **IS NOT RECOMMEND.**
+
+&nbsp;
+
 **Macintosh installation:**
 
 **Part 1 - Installing brew**

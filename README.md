@@ -93,7 +93,7 @@ The iOS Theos commands are the same across all systems.
 	
 	1. Once Cydia has done its thing go to the "Search" tab and search for "Theos Installer" and then que that for install then search for "MTerminal" and install them both.
 	
-	2. Now open MTerminal type "su" (without quotes) MTerminal will prompt you to type your root password (default password is "alpine" (without quotes) unless you've changed it) then copy and paste the following command "theosinstaller sdk-version" (without quotes) replace sdk-version with the sdk version you want to use (E.g. "theosinstaller 9.3").
+	2. Now open MTerminal type "su" (without quotes) MTerminal will prompt you to type your root password (default password is "alpine" (without quotes) unless you've changed it) then copy and paste the following command "theosinstaller sdk-version" (without quotes) replace "sdk-version" with the sdk version you want to use (E.g. "theosinstaller 9.3").
 	
 	3. This part might take a bit, once its done you can use the Theos commands below.
 

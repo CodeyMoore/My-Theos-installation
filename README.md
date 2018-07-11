@@ -3,6 +3,7 @@
 &nbsp;
 
 **PLEASE NOTE:** Installing Theos via Jack's *theosinstaller* requires su but Thoes itself **DOES NOT** need to run in su, it *can* be ran in su but **IS NOT RECOMMEND.**
+**ALSO NOTE:** iOS 9.3 and above SDK's seem to be broken causing Theos not to be able to compile tweaks and etc. Please use the command "theosinstaller 9.2" to fix this issue. 
 
 &nbsp;
 
@@ -97,12 +98,14 @@ The iOS Theos commands are the same across all systems.
 	
 	1. Once Cydia has done its thing go to the "Search" tab and search for "Theos Installer" and then que that for install then search for "MTerminal" and install them both.
 	
-	2. Now open MTerminal type "su" (without quotes) MTerminal will prompt you to type your root password (default password is "alpine" (without quotes) unless you've changed it) then copy and paste the following command "theosinstaller sdk-version" (without quotes) replace "sdk-version" with the sdk version you want to use (E.g. "theosinstaller 9.3").
+	2. Now open MTerminal type "su" (without quotes) MTerminal will prompt you to type your root password (default password is "alpine" (without quotes) unless you've changed it) then copy and paste the following command "theosinstaller 9.2" (without quotes). 
 	
 	3. This part might take a bit, once its done you can use the Theos commands below.
 
 
 &nbsp;
+
+When using the theos installer please use SDK versions 9.2 or below otherwise theos *might* not be able to compile tweaks and etc. 
 
 &nbsp;
 

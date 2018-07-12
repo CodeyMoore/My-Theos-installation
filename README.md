@@ -3,6 +3,9 @@
 &nbsp;
 
 **PLEASE NOTE:** Installing Theos via Jack's *theosinstaller* requires su but Thoes itself **DOES NOT** need to run in su, it *can* be ran in su but **IS NOT RECOMMEND.**
+
+&nbsp;
+
 **ALSO NOTE:** iOS 9.3 and above SDK's seem to be broken causing Theos not to be able to compile tweaks and etc. Please use the command "theosinstaller 9.2" to fix this issue. 
 
 &nbsp;
